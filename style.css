@@ -1,0 +1,46 @@
+body {
+    background: #000;
+    color: #fff;
+    font-family: Georgia;
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+.title, 
+.footer {
+    text-align: center;
+}
+
+.title {
+    font-size: 2.5em;
+    border: 3px, double, rgb(52, 245, 126);
+    padding: 10px;
+    margin: 0px auto;
+}
+
+.footer {
+    font-size: 1em;
+    font-style: italic;
+}
+
+
+img {
+    display: block;
+    margin: 10px auto;
+}
+
+h2, 
+h3 {
+    padding: 10px;
+    margin: auto auto 0px;
+}
+
+ul, 
+ol {
+    margin: 0px auto;
+}
+
+p {
+    padding: 10px;
+    margin: 0px auto;
+}
